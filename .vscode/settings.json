@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "flask-december/bin/python3.7",
+    "liveServer.settings.port": 5501
+}
